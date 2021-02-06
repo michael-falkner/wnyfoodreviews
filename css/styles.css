@@ -1,17 +1,22 @@
 #bodyContainer {
     margin: 0px;
     padding: 0px;
-    background-image: linear-gradient(lightblue, blue, black);
+    background-image: linear-gradient(lightblue, rgb(68, 121, 165), blue);
     height: 200px;
 }
 
-#headerContainer {
+.jumbotron {
     margin: 0px;
-    padding: 0px;
+    padding: 15px;
     background-color: lightblue;
     height:auto;
 }
 
 body {
     margin: 0px;
+}
+
+#h1Header
+{
+    font-family: "Brush Script MT", cursive;
 }
