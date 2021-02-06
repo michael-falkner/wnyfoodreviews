@@ -1,0 +1,17 @@
+#bodyContainer {
+    margin: 0px;
+    padding: 0px;
+    background-image: linear-gradient(lightblue, blue, black);
+    height: 200px;
+}
+
+#headerContainer {
+    margin: 0px;
+    padding: 0px;
+    background-color: lightblue;
+    height:auto;
+}
+
+body {
+    margin: 0px;
+}
